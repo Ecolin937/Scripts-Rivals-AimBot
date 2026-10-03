@@ -1,0 +1,6 @@
+{
+  "name": "Script Rivals pour PC",
+  "description": "Script Rivals pour PC avec bouton Copier rapide, instructions d'exécution et compatibilité Xeno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
